@@ -1,7 +1,7 @@
-Leafstride
+Leaf Walk
 ==========
 
-Climb through trees and glide through forests with Leafstride! This mod gives natural substance to leaves, allowing players to climb and walk through all forms of leaves. Although Leafstride allows players to move through leaves, the dense foliage will slow players down as they pass through -- but as a bonus, this also allows leaves to gently break a player's fall!
+Leaf Walk is a fork of Lafstride to... i can't think...
 
 How to Use
 ----------
